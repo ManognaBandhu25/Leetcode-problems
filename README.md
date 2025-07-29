@@ -62,4 +62,8 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+## Database
+|  |
+| ------- |
+| [1625-group-sold-products-by-the-date](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1625-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
