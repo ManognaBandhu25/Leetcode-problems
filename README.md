@@ -67,6 +67,7 @@
 ## Database
 |  |
 | ------- |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1625-group-sold-products-by-the-date) |
 ## Binary Search
 |  |
