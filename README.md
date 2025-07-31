@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
@@ -34,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -128,5 +130,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0048-rotate-image) |
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
