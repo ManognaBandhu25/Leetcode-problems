@@ -9,6 +9,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
+| [1262-online-majority-element-in-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
+| [1262-online-majority-element-in-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Sliding Window
 |  |
@@ -98,4 +100,16 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+## Design
+|  |
+| ------- |
+| [1262-online-majority-element-in-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1262-online-majority-element-in-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
+## Segment Tree
+|  |
+| ------- |
+| [1262-online-majority-element-in-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
 <!---LeetCode Topics End-->
