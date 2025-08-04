@@ -23,6 +23,7 @@
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3330-modify-the-matrix) |
+| [3398-make-a-square-with-the-same-color](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@
 | ------- |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3398-make-a-square-with-the-same-color](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
 ## String
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3330-modify-the-matrix) |
+| [3398-make-a-square-with-the-same-color](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
 ## Number Theory
 |  |
 | ------- |
