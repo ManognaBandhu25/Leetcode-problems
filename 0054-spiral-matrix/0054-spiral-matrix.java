@@ -6,19 +6,20 @@ class Solution {
         int bottom = matrix.length - 1;
         int right = matrix[0].length - 1;
         while(top<=bottom && left<=right){
+            //L-R
             for(int i = left;i<=right;i++) 
                 res.add(matrix[top][i]);
             top++;
-
+            //T-B
             for(int i = top;i<=bottom;i++)
                 res.add(matrix[i][right]);
             right--;
-
+            //R-L
             if (top <= bottom)
             for (int i = right; i >= left; i--) 
                 res.add(matrix[bottom][i]);
             bottom--;
-            
+            //B-T
             if(left<=right)
                 for(int i = bottom;i>=top;i-- )
                     res.add(matrix[i][left]);
