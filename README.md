@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,6 +123,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Design
 |  |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3330-modify-the-matrix) |
