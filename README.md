@@ -49,6 +49,7 @@
 | [0048-rotate-image](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0826-soup-servings) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0326-power-of-three) |
 ## Database
 |  |
 | ------- |
