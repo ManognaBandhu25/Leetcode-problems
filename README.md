@@ -118,6 +118,7 @@
 | [1625-group-sold-products-by-the-date](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1664-find-users-with-valid-e-mails) |
 | [1811-fix-names-in-a-table](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1811-fix-names-in-a-table) |
+| [1877-find-followers-count](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Binary Search
 |  |
