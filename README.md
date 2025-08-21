@@ -92,6 +92,7 @@
 | [0008-string-to-integer-atoi](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0038-count-and-say) |
 | [0299-bulls-and-cows](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0299-bulls-and-cows) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Backtracking
