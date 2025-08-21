@@ -40,6 +40,7 @@
 | [0169-majority-element](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
@@ -86,6 +87,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Backtracking
 |  |
 | ------- |
