@@ -21,6 +21,7 @@
 | [0940-fruit-into-baskets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1262-online-majority-element-in-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -76,6 +77,7 @@
 | [0826-soup-servings](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0826-soup-servings) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Enumeration
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [0059-spiral-matrix-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3330-modify-the-matrix) |
@@ -213,4 +216,12 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0826-soup-servings) |
+## Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
