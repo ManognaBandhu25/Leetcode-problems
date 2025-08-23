@@ -33,6 +33,7 @@
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -87,6 +88,7 @@
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3398-make-a-square-with-the-same-color](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## String
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Number Theory
 |  |
