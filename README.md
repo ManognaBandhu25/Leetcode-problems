@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0940-fruit-into-baskets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1262-online-majority-element-in-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
@@ -193,6 +195,7 @@
 | [0054-spiral-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
