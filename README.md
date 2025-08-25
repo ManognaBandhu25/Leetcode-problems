@@ -60,6 +60,7 @@
 | [0048-rotate-image](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0326-power-of-three) |
@@ -99,6 +100,7 @@
 | [0014-longest-common-prefix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0038-count-and-say) |
 | [0168-excel-sheet-column-title](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0299-bulls-and-cows](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0299-bulls-and-cows) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
