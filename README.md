@@ -97,6 +97,7 @@
 | [0010-regular-expression-matching](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0038-count-and-say) |
+| [0214-shortest-palindrome](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0299-bulls-and-cows](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0299-bulls-and-cows) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Backtracking
@@ -242,4 +243,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
