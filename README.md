@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0054-spiral-matrix) |
@@ -45,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0299-bulls-and-cows) |
@@ -113,6 +115,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -211,6 +214,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
