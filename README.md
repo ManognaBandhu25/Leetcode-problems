@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
@@ -108,6 +109,7 @@
 | [0010-regular-expression-matching](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0038-count-and-say) |
 | [0168-excel-sheet-column-title](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1720-crawler-log-folder](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
