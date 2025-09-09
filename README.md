@@ -164,6 +164,7 @@
 | [1664-find-users-with-valid-e-mails](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1664-find-users-with-valid-e-mails) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1801-average-time-of-process-per-machine](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
