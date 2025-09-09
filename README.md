@@ -160,6 +160,7 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1664-find-users-with-valid-e-mails) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1811-fix-names-in-a-table](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1877-find-followers-count) |
