@@ -23,6 +23,7 @@
 | [0498-diagonal-traverse](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0940-fruit-into-baskets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
+| [0983-validate-stack-sequences](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0983-validate-stack-sequences) |
 | [1262-online-majority-element-in-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -216,6 +217,7 @@
 | [0498-diagonal-traverse](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0874-backspace-string-compare) |
+| [0983-validate-stack-sequences](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0983-validate-stack-sequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -292,6 +294,7 @@
 | [0682-baseball-game](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0983-validate-stack-sequences) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1720-crawler-log-folder](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1720-crawler-log-folder) |
