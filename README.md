@@ -122,6 +122,7 @@
 | [0224-basic-calculator](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0299-bulls-and-cows](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0299-bulls-and-cows) |
 | [0874-backspace-string-compare](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0874-backspace-string-compare) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -285,6 +286,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0874-backspace-string-compare](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0874-backspace-string-compare) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1720-crawler-log-folder](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
