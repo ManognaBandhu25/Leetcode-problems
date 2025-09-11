@@ -70,6 +70,7 @@
 | [0050-powx-n](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
+| [0224-basic-calculator](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0326-power-of-three) |
@@ -118,6 +119,7 @@
 | [0168-excel-sheet-column-title](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0299-bulls-and-cows](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0299-bulls-and-cows) |
 | [0874-backspace-string-compare](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1720-crawler-log-folder) |
@@ -146,6 +148,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0326-power-of-three) |
 ## Database
@@ -280,6 +283,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0874-backspace-string-compare](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1720-crawler-log-folder](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1720-crawler-log-folder) |
