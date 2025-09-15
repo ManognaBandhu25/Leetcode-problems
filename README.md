@@ -55,6 +55,7 @@
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0299-bulls-and-cows) |
 | [0940-fruit-into-baskets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -127,6 +128,7 @@
 | [0874-backspace-string-compare](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
