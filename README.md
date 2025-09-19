@@ -49,6 +49,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2429-design-a-food-rating-system](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2429-design-a-food-rating-system](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
 | ------- |
@@ -240,6 +243,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [1262-online-majority-element-in-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
 | [2429-design-a-food-rating-system](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3797-design-spreadsheet) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -273,6 +277,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3797-design-spreadsheet) |
 ## Number Theory
 |  |
 | ------- |
