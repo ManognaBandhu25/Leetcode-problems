@@ -41,6 +41,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3330-modify-the-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
@@ -63,6 +64,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2429-design-a-food-rating-system](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3797-design-spreadsheet) |
 ## Greedy
@@ -260,6 +262,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0299-bulls-and-cows) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
