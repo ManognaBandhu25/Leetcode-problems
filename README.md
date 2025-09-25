@@ -92,6 +92,7 @@
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -160,6 +161,7 @@
 | [0136-single-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
