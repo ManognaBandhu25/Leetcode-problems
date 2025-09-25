@@ -59,6 +59,7 @@
 | [0169-majority-element](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0299-bulls-and-cows) |
+| [0389-find-the-difference](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0940-fruit-into-baskets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -138,6 +139,7 @@
 | [0214-shortest-palindrome](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0299-bulls-and-cows](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0299-bulls-and-cows) |
+| [0389-find-the-difference](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0874-backspace-string-compare](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
@@ -161,6 +163,7 @@
 | [0136-single-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -229,6 +232,7 @@
 | [0088-merge-sorted-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
