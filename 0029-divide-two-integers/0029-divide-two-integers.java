@@ -1,20 +1,46 @@
 class Solution {
-    public int divide(int dividend, int divisor) {
-        if (dividend == Integer.MIN_VALUE && divisor == -1) return Integer.MAX_VALUE;
-        long dvd = Math.abs((long)dividend);
-        long dvs = Math.abs((long)divisor);
-        long quotient = 0;
-
-        while(dvd >= dvs) {
-            long temp = dvs , multiple = 1;
-            while(dvd >= (temp << 1)) {
-                temp <<= 1;
-                multiple <<= 1;
+    public int divide(int a, int b) {
+        if (b == 1) {
+            return a;
+        }
+        if (a == Integer.MIN_VALUE && b == -1) {
+            return Integer.MAX_VALUE;
+        }
+        boolean sign = (a > 0 && b > 0) || (a < 0 && b < 0);
+        a = a > 0 ? -a : a;
+        b = b > 0 ? -b : b;
+        int ans = 0;
+        while (a <= b) {
+            int x = b;
+            int cnt = 1;
+            while (x >= (Integer.MIN_VALUE >> 1) && a <= (x << 1)) {
+                x <<= 1;
+                cnt <<= 1;
             }
-            dvd -= temp;
-            quotient += multiple;
-        }        
-        if ((dividend < 0) ^ (divisor < 0)) return (int)-quotient;
-        return (int)quotient;
+            ans += cnt;
+            a -= x;
+        }
+        return sign ? ans : -ans;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
