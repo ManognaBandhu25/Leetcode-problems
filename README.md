@@ -22,6 +22,7 @@
 | [0463-island-perimeter](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0682-baseball-game) |
+| [0830-largest-triangle-area](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0983-validate-stack-sequences](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0983-validate-stack-sequences) |
 | [1262-online-majority-element-in-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
@@ -90,6 +91,7 @@
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -380,4 +382,8 @@
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
