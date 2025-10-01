@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0053-maximum-subarray) |
@@ -234,6 +235,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
@@ -242,6 +244,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0874-backspace-string-compare](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
