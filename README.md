@@ -20,6 +20,7 @@
 | [0152-maximum-product-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
+| [0407-trapping-rain-water-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0682-baseball-game) |
@@ -296,6 +297,7 @@
 | [0048-rotate-image](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -325,6 +327,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Ordered Set
@@ -382,6 +385,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2429-design-a-food-rating-system](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 ## Graph
