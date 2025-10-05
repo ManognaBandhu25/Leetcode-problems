@@ -45,6 +45,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
+| [3227-find-missing-and-repeated-values](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3330-modify-the-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3330-modify-the-matrix) |
@@ -69,6 +70,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2429-design-a-food-rating-system](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
+| [3227-find-missing-and-repeated-values](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3797-design-spreadsheet) |
@@ -107,6 +109,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
+| [3227-find-missing-and-repeated-values](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3336-water-bottles-ii) |
 ## Dynamic Programming
@@ -305,6 +308,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
+| [3227-find-missing-and-repeated-values](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
