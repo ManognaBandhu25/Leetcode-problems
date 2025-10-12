@@ -97,6 +97,7 @@
 | [0048-rotate-image](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0224-basic-calculator) |
@@ -237,6 +238,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
 | [1262-online-majority-element-in-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
 | [1612-avoid-flood-in-the-city](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
