@@ -199,6 +199,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0169-majority-element) |
 ## Recursion
@@ -420,6 +421,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -445,6 +447,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -452,4 +455,8 @@
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
