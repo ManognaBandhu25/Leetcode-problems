@@ -281,6 +281,7 @@
 | [0088-merge-sorted-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0874-backspace-string-compare](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -452,6 +453,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Bitmask
 |  |
