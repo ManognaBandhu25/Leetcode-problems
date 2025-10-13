@@ -274,6 +274,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0018-4sum) |
+| [0086-partition-list](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
@@ -441,6 +442,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 ## Bitmask
 |  |
