@@ -294,6 +294,7 @@
 | [1642-water-bottles](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1642-water-bottles) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3336-water-bottles-ii) |
@@ -444,6 +445,7 @@
 | ------- |
 | [0086-partition-list](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Bitmask
 |  |
 | ------- |
