@@ -241,6 +241,7 @@
 | [1801-average-time-of-process-per-machine](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Binary Search
 |  |
