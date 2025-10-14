@@ -230,6 +230,7 @@
 | [1161-project-employees-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1161-project-employees-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1317-monthly-transactions-i) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1462-list-the-products-ordered-in-a-period) |
