@@ -213,6 +213,7 @@
 | [0010-regular-expression-matching](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0231-power-of-two) |
@@ -462,6 +463,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
