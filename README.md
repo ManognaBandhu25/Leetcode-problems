@@ -463,6 +463,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
