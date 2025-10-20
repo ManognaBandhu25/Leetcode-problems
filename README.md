@@ -119,6 +119,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
@@ -181,6 +182,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2429-design-a-food-rating-system](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
