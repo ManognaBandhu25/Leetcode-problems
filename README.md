@@ -391,6 +391,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0463-island-perimeter](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
@@ -415,6 +416,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
@@ -502,4 +504,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
