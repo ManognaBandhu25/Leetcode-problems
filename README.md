@@ -39,6 +39,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -120,6 +121,7 @@
 | [1642-water-bottles](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
@@ -186,6 +188,7 @@
 | [1885-count-number-of-homogenous-substrings](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -368,6 +371,7 @@
 | [0498-diagonal-traverse](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
