@@ -398,6 +398,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0463-island-perimeter) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -407,6 +408,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0407-trapping-rain-water-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0463-island-perimeter) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -521,6 +523,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -529,5 +532,6 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
