@@ -19,7 +19,7 @@ class Solution {
         if (root == null) return res;
 
         Queue<TreeNode> q = new LinkedList<>();
-        boolean leftToRight = true;
+        boolean x = true;
         q.add(root);
 
         while (!q.isEmpty()) {
@@ -29,7 +29,7 @@ class Solution {
             for (int i = 0; i < size; i++) {
                 TreeNode curr = q.poll();
 
-                if (leftToRight) {
+                if (x) {
                     level.add(curr.val);
                 } else {
                     level.add(0, curr.val);
@@ -40,7 +40,7 @@ class Solution {
             }
 
             res.add(level);
-            leftToRight = !leftToRight;
+            x = !x;
         }
 
         return res;
