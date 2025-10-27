@@ -15,8 +15,8 @@
  */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> res = new ArrayList<>();
-    levelOrder(root, 0, res);
+    List<List<Integer>> res = new ArrayList<>();
+        levelOrder(root, 0, res);
     return res;  
     }
     void levelOrder(TreeNode root, int level,List<List<Integer>>res){
