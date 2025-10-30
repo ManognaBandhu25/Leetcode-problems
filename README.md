@@ -35,6 +35,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1612-avoid-flood-in-the-city](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1720-crawler-log-folder](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -95,6 +96,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -149,6 +151,7 @@
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -447,12 +450,14 @@
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1720-crawler-log-folder](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Trie
 |  |
 | ------- |
