@@ -59,6 +59,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -88,6 +89,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3797-design-spreadsheet) |
@@ -295,6 +297,7 @@
 | [0940-fruit-into-baskets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Sorting
 |  |
@@ -490,6 +493,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2429-design-a-food-rating-system](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Graph
 |  |
