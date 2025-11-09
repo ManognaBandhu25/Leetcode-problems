@@ -129,6 +129,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
@@ -339,6 +340,7 @@
 | [1642-water-bottles](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1642-water-bottles) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
