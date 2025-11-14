@@ -48,6 +48,7 @@
 | [2429-design-a-food-rating-system](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2625-increment-submatrices-by-one](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
@@ -386,6 +387,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2625-increment-submatrices-by-one](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -405,6 +407,7 @@
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2625-increment-submatrices-by-one](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Depth-First Search
 |  |
