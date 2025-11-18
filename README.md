@@ -25,6 +25,7 @@
 | [0463-island-perimeter](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0983-validate-stack-sequences](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0983-validate-stack-sequences) |
