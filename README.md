@@ -68,6 +68,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -97,6 +98,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3797-design-spreadsheet) |
 ## Greedy
@@ -146,6 +148,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3336-water-bottles-ii) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
@@ -526,6 +529,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0830-largest-triangle-area) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Combinatorics
 |  |
 | ------- |
