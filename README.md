@@ -29,6 +29,7 @@
 | [0830-largest-triangle-area](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0983-validate-stack-sequences](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0983-validate-stack-sequences) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1262-online-majority-element-in-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1262-online-majority-element-in-subarray) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
