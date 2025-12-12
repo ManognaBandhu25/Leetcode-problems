@@ -62,6 +62,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3330-modify-the-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3398-make-a-square-with-the-same-color) |
+| [3433-count-mentions-per-user](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -150,6 +151,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -329,6 +331,7 @@
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3433-count-mentions-per-user](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
@@ -365,6 +368,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
