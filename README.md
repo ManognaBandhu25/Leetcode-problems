@@ -174,6 +174,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1668-maximum-repeating-substring](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -211,6 +212,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1668-maximum-repeating-substring](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 | [1720-crawler-log-folder](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -510,6 +512,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [1668-maximum-repeating-substring](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## Hash Function
 |  |
 | ------- |
