@@ -87,6 +87,7 @@
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0389-find-the-difference) |
+| [0756-pyramid-transition-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0940-fruit-into-baskets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -208,6 +209,7 @@
 | [0224-basic-calculator](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0299-bulls-and-cows](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0389-find-the-difference) |
+| [0756-pyramid-transition-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0874-backspace-string-compare](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
@@ -230,6 +232,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0756-pyramid-transition-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -241,6 +244,7 @@
 | [0268-missing-number](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0389-find-the-difference) |
+| [0756-pyramid-transition-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
