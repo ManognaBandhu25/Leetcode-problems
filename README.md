@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0054-spiral-matrix) |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0046-permutations) |
 | [0756-pyramid-transition-matrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
