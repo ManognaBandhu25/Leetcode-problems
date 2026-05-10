@@ -65,6 +65,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -194,6 +195,7 @@
 | [1668-maximum-repeating-substring](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
