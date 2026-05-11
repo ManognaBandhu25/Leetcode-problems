@@ -61,6 +61,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
@@ -401,6 +402,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
