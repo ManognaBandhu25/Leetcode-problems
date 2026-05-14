@@ -67,6 +67,7 @@
 | [2722-prime-in-diagonal](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -109,6 +110,7 @@
 | [2402-meeting-rooms-iii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2784-check-if-array-is-good](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -363,6 +365,7 @@
 | [1200-minimum-absolute-difference](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2402-meeting-rooms-iii](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2402-meeting-rooms-iii) |
+| [2784-check-if-array-is-good](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [3433-count-mentions-per-user](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
