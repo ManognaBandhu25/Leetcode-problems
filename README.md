@@ -49,6 +49,7 @@
 | [1720-crawler-log-folder](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1861-rotating-the-box](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -385,6 +386,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0874-backspace-string-compare](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1861-rotating-the-box](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Simulation
@@ -399,6 +401,7 @@
 | [0983-validate-stack-sequences](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/0983-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/1642-water-bottles) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ManognaBandhu25/Leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
